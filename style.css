@@ -123,55 +123,19 @@ body {
 }
 
 @media only screen and (max-width: 600px){
+}
 
-    html{
-        font-size: 55%;
-    }
+@media only screen and (max-width: 500px){
+}
 
-    .home{
-        padding:1rem 4rem;}
+@media only screen and (max-width: 400px){
+}
 
-    .links a{
-     color: #f9ca24 ;
-     font-size: 15px;
-     cursor: pointer;
-     padding-left: 1rem;
-    }
-    header{
-        left:-120%;
-        width: 100vw;
-    }
- 
-    #menu{
-        display: block;
-    }
- 
-    header.toggle{
-     left:0%;
-    }
- 
-    body{
-        padding:0;
-    }
+@media only screen and (max-width: 300px){
+}
 
-    .heading{
-        margin:0 3rem;
-    }
+@media only screen and (max-width: 200px){
+}
 
-    .about .row .counter .box{
-        width: 100%;
-    }
- 
-    .education .box-container .box{
-        width:100%;
-    }
-
-    .portfolio .box-container .box{
-        width:100%;
-    }
-
-    .contact .row form{
-        margin:3rem 0;
-    }
-
+@media only screen and (max-width: 100px){
 }
